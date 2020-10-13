@@ -1,0 +1,14 @@
+%{
+
+%}
+%%
+"END"
+"END_STATEMENT"
+"POINT"
+"VECTOR"
+"CIRCLE"
+"BLOCK"
+"COLOR_CHANGE"
+"INT"
+"FLOAT"
+
